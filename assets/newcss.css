@@ -490,23 +490,23 @@ img {
 }
 
 .skills__html {
-  width: 90%;
+  width: 85%;
 }
 .skills__css {
   width: 80%;
 }
 .skills__js {
-  width: 55%;
+  width: 75%;
 }
 .skills__react {
-  width: 40%;
+  width: 100%;
 }
 
 .skills__php {
   width: 80%;
 }
 .skills__node {
-  width: 70%;
+  width: 50%;
 }
 .skills__firebase {
   width: 75%;
